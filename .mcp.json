@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ai-workflow-tools": {
+      "command": "python",
+      "args": ["mcp-tools/example_server.py"]
+    }
+  }
+}
