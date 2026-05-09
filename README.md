@@ -16,11 +16,16 @@ AI 工作流实践项目 — Coze 工作流搭建与 MCP 工具集成。
 
 ```
 ai-workflow/
-├── coze-workflows/       # Coze 工作流定义
-│   └── smart-copy/       # 智能文案生成工作流
-├── mcp-tools/            # MCP 工具集成示例
-├── prompt-templates/     # Prompt 模板库
-├── skills/               # 自定义 Skills
+├── coze-workflows/           # Coze 工作流定义
+│   └── smart-copy/           # 智能文案生成工作流
+├── mcp-tools/                # MCP 工具集成示例
+├── prompt-templates/         # Prompt 模板库
+├── skills/                   # 自定义 Skills
+│   ├── converted/            # 从Claude金融插件转换的Skills
+│   │   ├── dcf-model/        # DCF估值模型
+│   │   ├── earnings-analysis/ # 盈利分析报告
+│   │   └── comps-analysis/   # 可比公司分析
+│   └── README.md
 └── README.md
 ```
 
