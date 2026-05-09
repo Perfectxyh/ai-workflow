@@ -11,10 +11,21 @@
 | [dcf-model](./converted/dcf-model/SKILL.md) | DCF 估值模型 — 机构级股权估值分析 | Anthropic financial-services |
 | [earnings-analysis](./converted/earnings-analysis/SKILL.md) | 盈利分析报告 — 季度财报更新分析 | Anthropic financial-services |
 | [comps-analysis](./converted/comps-analysis/SKILL.md) | 可比公司分析 — 同行估值基准研究 | Anthropic financial-services |
+| [ic-memo](./converted/ic-memo/SKILL.md) | 投资委员会备忘录 — PE 项目审批文档 | Anthropic financial-services |
+| [dd-checklist](./converted/dd-checklist/SKILL.md) | 尽职调查清单 — 全流程 DD 跟踪 | Anthropic financial-services |
+| [merger-model](./converted/merger-model/SKILL.md) | 并购模型 — 增厚/稀释分析 | Anthropic financial-services |
+| [financial-plan](./converted/financial-plan/SKILL.md) | 财务规划 — 退休/教育金/遗产规划 | Anthropic financial-services |
+| [value-creation-plan](./converted/value-creation-plan/SKILL.md) | 价值创造计划 — 投后 100 天执行 | Anthropic financial-services |
 
-### Qoder 原生 Skills
+### 总计：8 个已转换 Skill
 
-- （待添加）
+| 方向 | Skill 数量 | 覆盖范围 |
+|------|-----------|---------|
+| 估值建模 | 3 | DCF、Comps、并购模型 |
+| 投资分析 | 2 | IC备忘录、DD清单 |
+| 财富管理 | 1 | 财务规划 |
+| 投后管理 | 1 | 价值创造计划 |
+| 研究报告 | 1 | 盈利分析报告 |
 
 ## Skill 结构
 
